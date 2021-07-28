@@ -1,5 +1,5 @@
 # Mandelbrot Fractal Image
 
-![alt text](https://github.com/kshitij3188/kshitij3188/MandelbrotSet-Fractal-Cpp/test.bmp?raw=true)
+![Alt text](test.bmp?raw=true "Title")
 
 Created a program that generates fractal images using C++
